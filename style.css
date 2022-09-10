@@ -1,0 +1,18 @@
+.hsl {
+  position: absolute;
+  content: "";
+  /* width: calc(100% - 10px); */
+  /* top: 10px;
+  right: 10px;
+  text-align: right; */
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-size: 5vw; */
+  font-size: 3vw;
+  font-weight: 900;
+  color: hsl(120, 93%, 48%);
+  letter-spacing: .5rem;
+}
+
+body {
+  cursor: none;
+}
