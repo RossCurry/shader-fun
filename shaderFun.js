@@ -95,7 +95,7 @@ let H = 0;
 let S = 0; 
 let L = 50;
 const hslEl = document.createElement("div");
-hslEl.textContent = `HSL(${H},${S}%,${L},)`;
+hslEl.textContent = `HSL(${H},${S}%,${L})`;
 hslEl.classList.add("hsl");
 body.appendChild(hslEl);
 
